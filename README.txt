@@ -16,7 +16,8 @@ This is a lightweight, interactive grade calculator built with HTML, CSS, and Ja
 
 1. Download or clone the repo:
    ```
-   git clone https://github.com/your-username/grade-calculator.git
+   git clone https://github.com/chhtc2456/grade-calculator.git
+   ssh: git@github.com:chhtc2456/grade-calculator.git
    ```
 2. Open `grade_calculator.html` in any modern web browser (Chrome, Firefox, Edge).
 
