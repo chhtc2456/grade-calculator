@@ -25,15 +25,10 @@ That's it! No install or backend required — this is a static web app.
 
 ## 🌐 Deployment Options
 
-To make this app accessible via URL:
-- [ ] Use **GitHub Pages**: rename to `index.html`, enable GitHub Pages under Repo → Settings → Pages.
-- [ ] Use **Azure Static Web Apps**: link your GitHub repo and deploy from the Azure Portal.
-
 ## 📁 File List
 
 - `grade_calculator.html` — main file with all HTML, CSS, and JavaScript
 - `README.txt` — this file
-- (Optional) `demo.mp4` or YouTube/Drive link to recorded walkthrough
 
 ## 📹 Video Submission
 
